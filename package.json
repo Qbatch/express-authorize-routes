@@ -1,0 +1,14 @@
+{
+  "name": "express-authorize-routes",
+  "version": "1.0.0",
+  "description": "Authorize express routes on role based permissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qbatch",
+  "license": "ISC",
+  "dependencies": {
+    "accesscontrol": "^2.2.1"
+  }
+}
